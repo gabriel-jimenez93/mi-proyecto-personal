@@ -1,0 +1,177 @@
+body{
+    background-color: black;
+    color: rgb(251, 224, 189);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 300px;
+    
+    
+}
+
+
+#head1{
+    display: flex;
+    padding: 10px;
+    list-style: none;
+    
+}
+a{
+    color: rgb(251, 224, 189);
+}
+a:hover{
+    color: black;
+    background-color: rgb(251, 224, 189);
+}
+#l1, #l2, #l3 {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration-line: underline;
+    
+}
+#l1:hover, #l2:hover, #l3:hover{
+    color: black;
+    background-color: rgb(251, 224, 189);
+    text-decoration-line: none;
+    
+    
+}
+
+.barra{
+    display: flex;
+}
+
+.body1{
+    
+    display: flex;
+    width: 60%;
+    font-size: 1.5em;
+}
+.body2{
+
+    width: 40%;
+    text-align: center;
+    font-size: 2em;
+    padding: 10px;
+}
+#title1{
+    font-size: xx-large;
+   font-style: italic;
+   text-align: center;
+   font-variant: small-caps;
+   text-decoration-line: underline;
+
+}
+section{
+    display:flex ;
+}
+#body3{
+    width: 30%;
+    padding-left: 10px;
+}
+#body4{
+    width: 65%;
+    margin-left: 20px;
+    font-size: 1.5em;
+}
+ol > li{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    text-transform: uppercase;
+}
+ul > li{
+    list-style-type: square;
+    
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+#title2{
+    font-size: xx-large;
+   font-style: italic;
+   text-align: center;
+   font-variant: small-caps;
+   text-decoration-line: underline;
+}
+video{
+    width: 70%;
+    height: 500;
+    border-style: groove;
+}
+#pvideo{
+   font-family: monospace;
+    font-size: 1.25em;
+    text-align: center;
+    padding: 10px 15% 20px 15%;
+}
+#texto{
+    font-size: 1.7em;
+}
+.cuerpo2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 8%;
+    margin-right: 8%;
+    
+}
+.cuerpo2 > div{
+    width: 350px;
+    height: 400px;
+}
+#title3{
+    font-size: xx-large;
+   font-style: italic;
+   text-align: center;
+   font-variant: small-caps;
+   text-decoration-line: underline;
+
+}
+.caja{
+    display: flex;
+    font-style: oblique;
+    font-size: 1.9em;
+}
+.caja > div{
+    width: 30%;
+    margin-right: 20px;
+    padding: 10px;
+}
+#final{
+    font-size: 1.7rem;
+
+    
+}
+#text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 1.9em;
+    text-align: center;
+}
+#inferior{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    text-align: center;
+}
+.enlace1{
+    display: flex;
+    justify-content: end;
+    margin-left: 92%;
+    padding-right: 5px;
+    
+    
+}
